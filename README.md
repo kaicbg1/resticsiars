@@ -8,9 +8,14 @@ Além da recomendação, o sistema também apresenta um gráfico visual interati
 
 Este sistema é uma ferramenta útil para orientar os usuários em sua jornada de aprendizado, ajudando-os a identificar em qual área tecnológica eles podem ter mais afinidade e, assim, direcionar seu foco para aprimorar suas habilidades naquela área específica.
 
+
+
 Funções que deram origem ao gráfico:
 
+
+
 // Calcula os totais e porcentagens
+
     $totais = array_map('array_sum', $categorias);
     $totalRespostas = array_sum($totais);'
     
