@@ -28,4 +28,4 @@ Funções que deram origem ao gráfico:
     $tendencia = array_keys($totais, max($totais))[0];
 
 '
-Para execução, é necessário instalar o Xampp, colocar a pasta no diretório htdocs, dar start em Apache e MySql e executar localmente!
+Para execução, é necessário instalar o  pacote Xampp, colocar os arquivos da pasta no diretório htdocs , dentro do ambiente do Xamp iniciar atraves da ação start os modulos Apache e MySql e executar localmente no navegador!
