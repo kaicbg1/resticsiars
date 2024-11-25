@@ -26,3 +26,6 @@ Funções que deram origem ao gráfico:
 
     // Maior tendência
     $tendencia = array_keys($totais, max($totais))[0];
+
+'
+Para execução, é necessário instalar o Xampp, colocar a pasta no diretório htdocs, dar start em Apache e MySql e executar localmente!
